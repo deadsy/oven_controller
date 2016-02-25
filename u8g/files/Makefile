@@ -21,7 +21,7 @@ SRC = ./src/u8g_com_io.c \
 
 # select the fonts
 #SRC += ./src/u8g_font_data.c
-#SRC += ./src/bogo_small.c
+SRC += ./src/bogo_small.c
 SRC += ./src/nokia_small.c
 SRC += ./src/nokia_large.c
 
